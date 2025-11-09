@@ -22,7 +22,6 @@ AppSecret:your_app_secret
 ### 2. 编译 Rust 程序（首次使用）
 
 ```bash
-cd plug_in/WeChat_Pub
 cargo build --release
 ```
 
