@@ -1,0 +1,28 @@
+# Rust
+/target/
+Cargo.lock
+*.rs.bk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# 配置文件（包含敏感信息）
+config.txt
+*.log
+wechat_pub_mcp.log
+
