@@ -6,7 +6,13 @@
 
 ### 1. 配置凭证
 
-编辑 `config.txt` 文件，设置你的微信公众平台凭证：
+复制 `config.txt.example` 为 `config.txt`，然后编辑 `config.txt` 文件，设置你的微信公众平台凭证：
+
+```bash
+cp config.txt.example config.txt
+```
+
+编辑 `config.txt`：
 
 ```
 AppID:your_app_id
