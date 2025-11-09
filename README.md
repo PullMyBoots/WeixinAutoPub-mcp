@@ -1,6 +1,6 @@
 # WeChat Pub MCP Server
 
-微信公众平台文章发布 MCP 服务器，支持一键将本地 Markdown 文档发布到微信公众平台。
+微信公众平台文章发布 MCP 服务器，支持一键将本地 Markdown 文档发布到微信公众平台。参考实现：https://docs.rs/wechat-pub-rs/latest/wechat_pub_rs/
 
 ## 快速开始
 
